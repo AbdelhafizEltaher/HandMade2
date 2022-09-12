@@ -1,0 +1,2695 @@
+{
+  "Cautions": [
+    {
+      "title": "dream catche",
+      "price": 18,
+      "id": 1,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 10,
+      "imgsrc": "https://i.ibb.co/jTVVGtX/5e2143198b1d8dfa14beda6c3e54f37a1552d5ea.webp"
+    },
+    {
+      "title": "setaar",
+      "price": 25,
+      "id": 2,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/MhK7fwv/8dn-YSb2v-Tz-Pv88-KXAsmm-Ww-Ha-Ha.jpg"
+    },
+    {
+      "title": "makramia",
+      "price": 36,
+      "id": 3,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/TmCZPdk/26b17cbd8029a23d97529270e02b778ea59a132a-170321084313.jpg"
+    },
+    {
+      "title": "catcher",
+      "price": 24,
+      "id": 4,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/6swSdVj/512t-Kb-W893-L-AC-SY350.jpg"
+    },
+    {
+      "title": "butterfly",
+      "price": 62,
+      "id": 5,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 11,
+      "imgsrc": "https://i.ibb.co/KLHgSYT/683.jpg"
+    },
+    {
+      "title": "makramia",
+      "price": 37,
+      "id": 6,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/cJCq1ss/806db5792829102aab853e6b812a47460a40bf16.webp"
+    },
+    {
+      "title": "catcher",
+      "price": 32,
+      "id": 7,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/fNd8PVV/5934-2.webp"
+    },
+    {
+      "title": "butterfly",
+      "price": 55,
+      "id": 8,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 11,
+      "imgsrc": "https://i.ibb.co/9W6n3Fc/2019-DIY-dressed-unicorn-lion-100-Cotton.png"
+    },
+    {
+      "title": "makramia",
+      "price": 73,
+      "id": 9,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/fNd8PVV/5934-2.webp"
+    },
+    {
+      "title": "catcher",
+      "price": 21,
+      "id": 10,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/9W6n3Fc/2019-DIY-dressed-unicorn-lion-100-Cotton.png"
+    },
+    {
+      "title": "butterfly",
+      "price": 86,
+      "id": 11,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 11,
+      "imgsrc": "https://i.ibb.co/FsJfnJ5/12963349971491301136.jpg"
+    },
+    {
+      "title": "makramia",
+      "price": 16,
+      "id": 12,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 11,
+      "imgsrc": "https://i.ibb.co/2PpnCT7/20200907113234882.jpg"
+    },
+    {
+      "title": "dream catcher",
+      "price": 21,
+      "id": 13,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/fNd8PVV/5934-2.webp"
+    },
+    {
+      "title": "setaar",
+      "price": 25,
+      "id": 14,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/jTVVGtX/5e2143198b1d8dfa14beda6c3e54f37a1552d5ea.webp"
+    },
+    {
+      "title": "makramia",
+      "price": 36,
+      "id": 15,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/PhFjygq/a-usual-stool-renovated-with-a-bright-crocheted-cover-with-tassels-is-a-very-cozy-and-lovely-idea-th.webp"
+    },
+    {
+      "title": "catcher",
+      "price": 24,
+      "id": 16,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/6vCTKBd/H21f36d800ed54f83a734b0f8d4288088-T.jpg"
+    },
+    {
+      "title": "butterfly",
+      "price": 62,
+      "id": 17,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 11,
+      "imgsrc": "https://i.ibb.co/fNd8PVV/5934-2.webp"
+    },
+    {
+      "title": "makramia",
+      "price": 37,
+      "id": 18,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/fNd8PVV/5934-2.webp"
+    },
+    {
+      "title": "catcher",
+      "price": 32,
+      "id": 19,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/S7v6wQ7/HTB1-DZs-Vi-L2-H8-KJjy0-Fcq6y-Dl-FXa-S.jpg"
+    },
+    {
+      "title": "butterfly",
+      "price": 55,
+      "id": 20,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 11,
+      "imgsrc": "https://i.ibb.co/VYSrcXJ/images-2.jpg"
+    },
+    {
+      "title": "makramia",
+      "price": 73,
+      "id": 21,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/cJCq1ss/806db5792829102aab853e6b812a47460a40bf16.webp"
+    },
+    {
+      "title": "catcher",
+      "price": 21,
+      "id": 22,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/125CQyy/images-3.jpg"
+    },
+    {
+      "title": "butterfly",
+      "price": 86,
+      "id": 23,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 11,
+      "imgsrc": "https://i.ibb.co/KLHgSYT/683.jpg"
+    },
+    {
+      "title": "makramia",
+      "price": 16,
+      "id": 24,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 11,
+      "imgsrc": "https://i.ibb.co/TmCZPdk/26b17cbd8029a23d97529270e02b778ea59a132a-170321084313.jpg"
+    },
+    {
+      "title": "dream catcher",
+      "price": 21,
+      "id": 25,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/MhK7fwv/8dn-YSb2v-Tz-Pv88-KXAsmm-Ww-Ha-Ha.jpg"
+    },
+    {
+      "title": "setaar",
+      "price": 25,
+      "id": 26,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/6swSdVj/512t-Kb-W893-L-AC-SY350.jpg"
+    },
+    {
+      "title": "makramia",
+      "price": 36,
+      "id": 27,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/fv3BggN/images-5.jpg"
+    },
+    {
+      "title": "catcher",
+      "price": 24,
+      "id": 4,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/9W6n3Fc/2019-DIY-dressed-unicorn-lion-100-Cotton.png"
+    },
+    {
+      "title": "butterfly",
+      "price": 62,
+      "id": 28,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 11,
+      "imgsrc": "https://i.ibb.co/ZHgYFfR/images.jpg"
+    },
+    {
+      "title": "makramia",
+      "price": 37,
+      "id": 29,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/vjjDKjR/zuz5hq-Dlq-Bh-Mi-Q5-STPP4-NQHa-J4.jpg"
+    },
+    {
+      "title": "catcher",
+      "price": 32,
+      "id": 30,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/Vw5twr3/893811.webp"
+    },
+    {
+      "title": "butterfly",
+      "price": 55,
+      "id": 31,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 11,
+      "imgsrc": "https://i.ibb.co/syYdVGp/images-4.jpg"
+    },
+    {
+      "title": "makramia",
+      "price": 73,
+      "id": 32,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/fNd8PVV/5934-2.webp"
+    },
+    {
+      "title": "catcher",
+      "price": 21,
+      "id": 33,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/M94Z6Xr/893818.webp"
+    },
+    {
+      "title": "butterfly",
+      "price": 86,
+      "id": 34,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 11,
+      "imgsrc": "https://i.ibb.co/fNd8PVV/5934-2.webp"
+    },
+    {
+      "title": "makramia",
+      "price": 16,
+      "id": 35,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 11,
+      "imgsrc": "https://i.ibb.co/KLHgSYT/683.jpg"
+    },
+    {
+      "title": "dream catcher",
+      "price": 21,
+      "id": 36,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/jTVVGtX/5e2143198b1d8dfa14beda6c3e54f37a1552d5ea.webp"
+    }
+  ],
+  "PainArt": [
+    {
+      "title": "moon drawing",
+      "price": 2,
+      "id": 1,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 62,
+      "imgsrc": "https://i.ibb.co/FwykkZ6/001-0002-0202.webp"
+    },
+    {
+      "title": "old heritage",
+      "price": 5,
+      "id": 2,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 25,
+      "imgsrc": "https://i.ibb.co/dLgNDgC/4e2c16e0c0924481e8aa1c2fdefe2ee4.jpg"
+    },
+    {
+      "title": "modern heritage",
+      "price": 7,
+      "id": 3,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 85,
+      "imgsrc": "https://i.ibb.co/vV0FBqk/5a697299ede3fa131d9f4789602a75dc-ballet-painting-ballet-art.jpg"
+    },
+    {
+      "title": "decorative frame",
+      "price": 11,
+      "id": 4,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 33,
+      "imgsrc": "https://i.ibb.co/VDkBzZb/5edfa6-6abcc1bad6c344ec91c0b0f8e092b8be-mv2-d-2700-3730-s-4-2.jpg"
+    },
+    {
+      "title": "old heritage",
+      "price": 5,
+      "id": 5,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 25,
+      "imgsrc": "https://i.ibb.co/dmjnhM3/81i-P7-E8iu6-L-SX500.jpg"
+    },
+    {
+      "title": "modern heritage",
+      "price": 7,
+      "id": 6,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 85,
+      "imgsrc": "https://i.ibb.co/GM0FwNY/500x0.jpg"
+    },
+    {
+      "title": "decorative frame",
+      "price": 11,
+      "id": 7,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 33,
+      "imgsrc": "https://i.ibb.co/Kmtkj9Y/988ad9a009396e060ef67fb6abe9a02d.jpg"
+    },
+    {
+      "title": "old heritage",
+      "price": 5,
+      "id": 8,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 25,
+      "imgsrc": "https://i.ibb.co/PwmdBzt/52745a6941e42b02a0074b8c4386ca2c.jpg"
+    },
+    {
+      "title": "modern heritage",
+      "price": 7,
+      "id": 9,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 85,
+      "imgsrc": "https://i.ibb.co/W25THgV/7687478-HSC00001-7.jpg"
+    },
+    {
+      "title": "decorative frame",
+      "price": 11,
+      "id": 10,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 33,
+      "imgsrc": "https://i.ibb.co/qFTgH33/b47e546806fcd5c1ef90805bc183f399.jpg"
+    },
+    {
+      "title": "old heritage",
+      "price": 5,
+      "id": 11,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 25,
+      "imgsrc": "https://i.ibb.co/r2q70zg/beautiful-Girl-Pop-Art-paint-by-numbers.jpg"
+    },
+    {
+      "title": "modern heritage",
+      "price": 7,
+      "id": 12,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 85,
+      "imgsrc": "https://i.ibb.co/tMyygPj/d43ce059d34b39bef244b92d905bddba.jpg"
+    },
+    {
+      "title": "decorative frame",
+      "price": 11,
+      "id": 13,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 33,
+      "imgsrc": "https://i.ibb.co/Fxy5qP1/dzfbz.jpg"
+    },
+    {
+      "title": "old heritage",
+      "price": 5,
+      "id": 14,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 25,
+      "imgsrc": "https://i.ibb.co/BNqFqKM/farp-small-wall-texture-product-750x1000-u1-1.jpg"
+    },
+    {
+      "title": "modern heritage",
+      "price": 7,
+      "id": 15,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 85,
+      "imgsrc": "https://i.ibb.co/m0hM3DK/farp-small-wall-texture-product-750x1000-u1.jpg"
+    },
+    {
+      "title": "decorative frame",
+      "price": 11,
+      "id": 16,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 33,
+      "imgsrc": "https://i.ibb.co/jgmLQYv/farp-small-wall-texture-product-750x1000-u2.jpg"
+    },
+    {
+      "title": "old heritage",
+      "price": 5,
+      "id": 17,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 25,
+      "imgsrc": "https://i.ibb.co/zbvcT7R/Handmade-Pop-Art-Figure-Oil-Painting-for-Wall-Decoration.jpg"
+    },
+    {
+      "title": "modern heritage",
+      "price": 7,
+      "id": 18,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 85,
+      "imgsrc": "https://i.ibb.co/jMcbdT1/Whats-App-Image-2022-09-03-at-4-06-42-PM-1.jpg"
+    },
+    {
+      "title": "decorative frame",
+      "price": 11,
+      "id": 19,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 33,
+      "imgsrc": "https://i.ibb.co/pnW0tnm/PASSION-OF-THE-DANCE-1.jpg"
+    },
+    {
+      "title": "old heritage",
+      "price": 5,
+      "id": 20,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 25,
+      "imgsrc": "https://i.ibb.co/4W6pdYm/oil-painting-flamenco-dance-spiral-background-oil-painting-flamenco-dance-spiral-background-19396740.jpg"
+    },
+    {
+      "title": "modern heritage",
+      "price": 7,
+      "id": 21,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 85,
+      "imgsrc": "https://i.ibb.co/LxCYZC6/Whats-App-Image-2022-09-03-at-4-06-42-PM.jpg"
+    },
+    {
+      "title": "decorative frame",
+      "price": 11,
+      "id": 22,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 33,
+      "imgsrc": "https://i.ibb.co/5kmwnTK/strong-flamenco-leonid-afremov.jpg"
+    },
+    {
+      "title": "old heritage",
+      "price": 5,
+      "id": 23,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 25,
+      "imgsrc": "https://i.ibb.co/QYrLJXf/Simple-Acrylic-Painting-Ideas-for-Beginners-29.jpg"
+    },
+    {
+      "title": "modern heritage",
+      "price": 7,
+      "id": 24,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 85,
+      "imgsrc": "https://i.ibb.co/jhsSts6/girl-with-long-hair-pop-art-paint-by-numbers.jpg"
+    },
+    {
+      "title": "decorative frame",
+      "price": 11,
+      "id": 25,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 33,
+      "imgsrc": "https://i.ibb.co/FwykkZ6/001-0002-0202.webp"
+    },
+    {
+      "title": "old heritage",
+      "price": 5,
+      "id": 26,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 25,
+      "imgsrc": "https://i.ibb.co/dLgNDgC/4e2c16e0c0924481e8aa1c2fdefe2ee4.jpg"
+    },
+    {
+      "title": "modern heritage",
+      "price": 7,
+      "id": 27,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 85,
+      "imgsrc": "https://i.ibb.co/vV0FBqk/5a697299ede3fa131d9f4789602a75dc-ballet-painting-ballet-art.jpg"
+    },
+    {
+      "title": "decorative frame",
+      "price": 11,
+      "id": 28,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 33,
+      "imgsrc": "https://i.ibb.co/VDkBzZb/5edfa6-6abcc1bad6c344ec91c0b0f8e092b8be-mv2-d-2700-3730-s-4-2.jpg"
+    },
+    {
+      "title": "old heritage",
+      "price": 5,
+      "id": 29,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 25,
+      "imgsrc": "https://i.ibb.co/dmjnhM3/81i-P7-E8iu6-L-SX500.jpg"
+    },
+    {
+      "title": "modern heritage",
+      "price": 7,
+      "id": 30,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 85,
+      "imgsrc": "https://i.ibb.co/GM0FwNY/500x0.jpg"
+    },
+    {
+      "title": "decorative frame",
+      "price": 11,
+      "id": 31,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 33,
+      "imgsrc": "https://i.ibb.co/Kmtkj9Y/988ad9a009396e060ef67fb6abe9a02d.jpg"
+    },
+    {
+      "title": "old heritage",
+      "price": 5,
+      "id": 32,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 25,
+      "imgsrc": "https://i.ibb.co/PwmdBzt/52745a6941e42b02a0074b8c4386ca2c.jpg"
+    },
+    {
+      "title": "modern heritage",
+      "price": 7,
+      "id": 33,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 85,
+      "imgsrc": "https://i.ibb.co/W25THgV/7687478-HSC00001-7.jpg"
+    },
+    {
+      "title": "decorative frame",
+      "price": 11,
+      "id": 34,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 33,
+      "imgsrc": "https://i.ibb.co/qFTgH33/b47e546806fcd5c1ef90805bc183f399.jpg"
+    },
+    {
+      "title": "old heritage",
+      "price": 5,
+      "id": 35,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 25,
+      "imgsrc": "https://i.ibb.co/r2q70zg/beautiful-Girl-Pop-Art-paint-by-numbers.jpg"
+    },
+    {
+      "title": "modern heritage",
+      "price": 7,
+      "id": 36,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 85,
+      "imgsrc": "https://i.ibb.co/Fxy5qP1/dzfbz.jpg"
+    },
+    {
+      "title": "decorative frame",
+      "price": 11,
+      "id": 37,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 33,
+      "imgsrc": "https://i.ibb.co/tMyygPj/d43ce059d34b39bef244b92d905bddba.jpg"
+    },
+    {
+      "title": "old heritage",
+      "price": 5,
+      "id": 38,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 25,
+      "imgsrc": "https://i.ibb.co/BNqFqKM/farp-small-wall-texture-product-750x1000-u1-1.jpg"
+    },
+    {
+      "title": "modern heritage",
+      "price": 7,
+      "id": 39,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 85,
+      "imgsrc": "https://i.ibb.co/m0hM3DK/farp-small-wall-texture-product-750x1000-u1.jpg"
+    },
+    {
+      "title": "decorative frame",
+      "price": 11,
+      "id": 40,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 33,
+      "imgsrc": "https://i.ibb.co/jgmLQYv/farp-small-wall-texture-product-750x1000-u2.jpg"
+    },
+    {
+      "title": "old heritage",
+      "price": 5,
+      "id": 41,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 25,
+      "imgsrc": "https://i.ibb.co/pnW0tnm/PASSION-OF-THE-DANCE-1.jpg"
+    },
+    {
+      "title": "modern heritage",
+      "price": 7,
+      "id": 42,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 85,
+      "imgsrc": "https://i.ibb.co/4W6pdYm/oil-painting-flamenco-dance-spiral-background-oil-painting-flamenco-dance-spiral-background-19396740.jpg"
+    },
+    {
+      "title": "decorative frame",
+      "price": 11,
+      "id": 43,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 33,
+      "imgsrc": "https://i.ibb.co/jhsSts6/girl-with-long-hair-pop-art-paint-by-numbers.jpg"
+    },
+    {
+      "title": "old heritage",
+      "price": 5,
+      "id": 44,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 25,
+      "imgsrc": "https://i.ibb.co/zbvcT7R/Handmade-Pop-Art-Figure-Oil-Painting-for-Wall-Decoration.jpg"
+    },
+    {
+      "title": "modern heritage",
+      "price": 7,
+      "id": 45,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 85,
+      "imgsrc": "https://i.ibb.co/FwykkZ6/001-0002-0202.webp"
+    },
+    {
+      "title": "decorative frame",
+      "price": 11,
+      "id": 46,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 33,
+      "imgsrc": "https://i.ibb.co/dLgNDgC/4e2c16e0c0924481e8aa1c2fdefe2ee4.jpg"
+    },
+    {
+      "title": "old heritage",
+      "price": 5,
+      "id": 47,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 25,
+      "imgsrc": "https://i.ibb.co/vV0FBqk/5a697299ede3fa131d9f4789602a75dc-ballet-painting-ballet-art.jpg"
+    },
+    {
+      "title": "modern heritage",
+      "price": 7,
+      "id": 48,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 85,
+      "imgsrc": "https://i.ibb.co/VDkBzZb/5edfa6-6abcc1bad6c344ec91c0b0f8e092b8be-mv2-d-2700-3730-s-4-2.jpg"
+    },
+    {
+      "title": "decorative frame",
+      "price": 11,
+      "id": 49,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 33,
+      "imgsrc": "https://i.ibb.co/dmjnhM3/81i-P7-E8iu6-L-SX500.jpg"
+    },
+    {
+      "title": "old heritage",
+      "price": 5,
+      "id": 50,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 25,
+      "imgsrc": "https://i.ibb.co/GM0FwNY/500x0.jpg"
+    },
+    {
+      "title": "old heritage",
+      "price": 5,
+      "id": 51,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 25,
+      "imgsrc": "https://i.ibb.co/Kmtkj9Y/988ad9a009396e060ef67fb6abe9a02d.jpg"
+    },
+    {
+      "title": "modern heritage",
+      "price": 7,
+      "id": 52,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 85,
+      "imgsrc": "https://i.ibb.co/PwmdBzt/52745a6941e42b02a0074b8c4386ca2c.jpg"
+    },
+    {
+      "title": "decorative frame",
+      "price": 11,
+      "id": 53,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 33,
+      "imgsrc": "https://i.ibb.co/W25THgV/7687478-HSC00001-7.jpg"
+    },
+    {
+      "title": "old heritage",
+      "price": 5,
+      "id": 54,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 25,
+      "imgsrc": "https://i.ibb.co/qFTgH33/b47e546806fcd5c1ef90805bc183f399.jpg"
+    },
+    {
+      "title": "modern heritage",
+      "price": 7,
+      "id": 55,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 85,
+      "imgsrc": "https://i.ibb.co/r2q70zg/beautiful-Girl-Pop-Art-paint-by-numbers.jpg"
+    },
+    {
+      "title": "decorative frame",
+      "price": 11,
+      "id": 56,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 33,
+      "imgsrc": "https://i.ibb.co/tMyygPj/d43ce059d34b39bef244b92d905bddba.jpg"
+    },
+    {
+      "title": "old heritage",
+      "price": 5,
+      "id": 57,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 25,
+      "imgsrc": "https://i.ibb.co/Fxy5qP1/dzfbz.jpg"
+    },
+    {
+      "title": "modern heritage",
+      "price": 7,
+      "id": 58,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 85,
+      "imgsrc": "https://i.ibb.co/BNqFqKM/farp-small-wall-texture-product-750x1000-u1-1.jpg"
+    },
+    {
+      "title": "decorative frame",
+      "price": 11,
+      "id": 59,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 33,
+      "imgsrc": "https://i.ibb.co/m0hM3DK/farp-small-wall-texture-product-750x1000-u1.jpg"
+    },
+    {
+      "title": "old heritage",
+      "price": 5,
+      "id": 60,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 25,
+      "imgsrc": "https://i.ibb.co/jgmLQYv/farp-small-wall-texture-product-750x1000-u2.jpg"
+    }
+  ],
+  "Accessories": [
+    {
+      "title": "necklace",
+      "price": 14,
+      "id": 1,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 70,
+      "imgsrc": "https://i.ibb.co/jDrLmk5/1-1.jpg"
+    },
+    {
+      "title": "bracelet",
+      "price": 15,
+      "id": 2,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 92,
+      "imgsrc": "https://i.ibb.co/t30QLRg/1-2.jpg"
+    },
+    {
+      "title": "throat",
+      "price": 64,
+      "id": 3,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 12,
+      "imgsrc": "https://i.ibb.co/cYRq827/1.jpg"
+    },
+    {
+      "title": "Crochet bags",
+      "price": 96,
+      "id": 4,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/XWFqhp3/product-500x500.jpg"
+    },
+    {
+      "title": "cup",
+      "price": 77,
+      "id": 5,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 54,
+      "imgsrc": "https://i.ibb.co/y5rp3SY/Oxidized-necklace-wholesale-SRDNTOX92-480x640.jpg"
+    },
+    {
+      "title": "throat",
+      "price": 64,
+      "id": 6,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 12,
+      "imgsrc": "https://i.ibb.co/8MVpR9t/oxidized-german-silver-thread-necklaces-1000x1000.webp"
+    },
+    {
+      "title": "Crochet bags",
+      "price": 96,
+      "id": 7,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/H4NFTRk/handmade-oxidized-necklace-set-500x500.jpg"
+    },
+    {
+      "title": "cup",
+      "price": 77,
+      "id": 8,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 54,
+      "imgsrc": "https://i.ibb.co/vZK7SF4/20201223-111143-1-533x.webp"
+    },
+    {
+      "title": "throat",
+      "price": 64,
+      "id": 9,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 12,
+      "imgsrc": "https://i.ibb.co/Qb55bd2/13516424-10154426529219131-3140162579943269055-n.jpg"
+    },
+    {
+      "title": "Crochet bags",
+      "price": 96,
+      "id": 10,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/jyCLqVS/21046a7161f06b412681f5807150d91c.jpg"
+    },
+    {
+      "title": "bracelet",
+      "price": 15,
+      "id": 11,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 92,
+      "imgsrc": "https://i.ibb.co/TPJTxdr/706ee4e536b790e7ae7bf1e7b454ee64d68871bd.webp"
+    },
+    {
+      "title": "throat",
+      "price": 64,
+      "id": 12,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 12,
+      "imgsrc": "https://i.ibb.co/g9PMvZb/7-500x500.webp"
+    },
+    {
+      "title": "Crochet bags",
+      "price": 96,
+      "id": 13,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/vxqjP7h/5.jpg"
+    },
+    {
+      "title": "cup",
+      "price": 77,
+      "id": 14,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 54,
+      "imgsrc": "https://i.ibb.co/XxPHXvv/images.jpg"
+    },
+    {
+      "title": "throat",
+      "price": 64,
+      "id": 15,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 12,
+      "imgsrc": "https://i.ibb.co/Msd5BYb/FLORALGARLANDBLUE01.jpg"
+    },
+    {
+      "title": "Crochet bags",
+      "price": 96,
+      "id": 16,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/2vV2z06/7ca8dac49896857c5afba627e52b91fb.jpg"
+    },
+    {
+      "title": "cup",
+      "price": 77,
+      "id": 17,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 54,
+      "imgsrc": "https://i.ibb.co/HC230WY/DIY-Jewelry-Accessories-Handmade-Chain-Color-Preserving-Electroplated-Copper-Chain-Five-Pointed-Star.jpg"
+    },
+    {
+      "title": "throat",
+      "price": 64,
+      "id": 18,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 12,
+      "imgsrc": "https://i.ibb.co/M291xH3/1b96b0bb51fefc2d2448fade63bf0e61daab5fb2.webp"
+    },
+    {
+      "title": "Crochet bags",
+      "price": 96,
+      "id": 19,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/t30QLRg/1-2.jpg"
+    },
+    {
+      "title": "bracelet",
+      "price": 15,
+      "id": 20,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 92,
+      "imgsrc": "https://i.ibb.co/jDrLmk5/1-1.jpg"
+    },
+    {
+      "title": "throat",
+      "price": 64,
+      "id": 21,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 12,
+      "imgsrc": "https://i.ibb.co/cYRq827/1.jpg"
+    },
+    {
+      "title": "Crochet bags",
+      "price": 96,
+      "id": 22,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/XWFqhp3/product-500x500.jpg"
+    },
+    {
+      "title": "cup",
+      "price": 77,
+      "id": 23,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 54,
+      "imgsrc": "https://i.ibb.co/y5rp3SY/Oxidized-necklace-wholesale-SRDNTOX92-480x640.jpg"
+    },
+    {
+      "title": "throat",
+      "price": 64,
+      "id": 24,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 12,
+      "imgsrc": "https://i.ibb.co/8MVpR9t/oxidized-german-silver-thread-necklaces-1000x1000.webp"
+    },
+    {
+      "title": "Crochet bags",
+      "price": 96,
+      "id": 25,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/H4NFTRk/handmade-oxidized-necklace-set-500x500.jpg"
+    },
+    {
+      "title": "cup",
+      "price": 77,
+      "id": 26,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 54,
+      "imgsrc": "https://i.ibb.co/vZK7SF4/20201223-111143-1-533x.webp"
+    },
+    {
+      "title": "throat",
+      "price": 64,
+      "id": 27,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 12,
+      "imgsrc": "https://i.ibb.co/Qb55bd2/13516424-10154426529219131-3140162579943269055-n.jpg"
+    },
+    {
+      "title": "Crochet bags",
+      "price": 96,
+      "id": 28,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/jyCLqVS/21046a7161f06b412681f5807150d91c.jpg"
+    },
+    {
+      "title": "bracelet",
+      "price": 15,
+      "id": 29,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 92,
+      "imgsrc": "https://i.ibb.co/TPJTxdr/706ee4e536b790e7ae7bf1e7b454ee64d68871bd.webp"
+    },
+    {
+      "title": "throat",
+      "price": 64,
+      "id": 30,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 12,
+      "imgsrc": "https://i.ibb.co/g9PMvZb/7-500x500.webp"
+    },
+    {
+      "title": "Crochet bags",
+      "price": 96,
+      "id": 31,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/vxqjP7h/5.jpg"
+    },
+    {
+      "title": "cup",
+      "price": 77,
+      "id": 32,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 54,
+      "imgsrc": "https://i.ibb.co/XxPHXvv/images.jpg"
+    },
+    {
+      "title": "throat",
+      "price": 64,
+      "id": 33,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 12,
+      "imgsrc": "https://i.ibb.co/Msd5BYb/FLORALGARLANDBLUE01.jpg"
+    },
+    {
+      "title": "Crochet bags",
+      "price": 96,
+      "id": 34,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/HC230WY/DIY-Jewelry-Accessories-Handmade-Chain-Color-Preserving-Electroplated-Copper-Chain-Five-Pointed-Star.jpg"
+    },
+    {
+      "title": "cup",
+      "price": 77,
+      "id": 35,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 54,
+      "imgsrc": "https://i.ibb.co/2vV2z06/7ca8dac49896857c5afba627e52b91fb.jpg"
+    },
+    {
+      "title": "throat",
+      "price": 64,
+      "id": 36,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 12,
+      "imgsrc": "https://i.ibb.co/vxqjP7h/5.jpg"
+    },
+    {
+      "title": "Crochet bags",
+      "price": 96,
+      "id": 37,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/M291xH3/1b96b0bb51fefc2d2448fade63bf0e61daab5fb2.webp"
+    },
+    {
+      "title": "bracelet",
+      "price": 15,
+      "id": 38,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 92,
+      "imgsrc": "https://i.ibb.co/cYRq827/1.jpg"
+    },
+    {
+      "title": "throat",
+      "price": 64,
+      "id": 39,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 12,
+      "imgsrc": "https://i.ibb.co/Qb55bd2/13516424-10154426529219131-3140162579943269055-n.jpg"
+    },
+    {
+      "title": "Crochet bags",
+      "price": 96,
+      "id": 40,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/jDrLmk5/1-1.jpg"
+    },
+    {
+      "title": "cup",
+      "price": 77,
+      "id": 41,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 54,
+      "imgsrc": "https://i.ibb.co/XWFqhp3/product-500x500.jpg"
+    },
+    {
+      "title": "throat",
+      "price": 64,
+      "id": 42,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 12,
+      "imgsrc": "https://i.ibb.co/cYRq827/1.jpg"
+    },
+    {
+      "title": "Crochet bags",
+      "price": 96,
+      "id": 43,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/y5rp3SY/Oxidized-necklace-wholesale-SRDNTOX92-480x640.jpg"
+    },
+    {
+      "title": "cup",
+      "price": 77,
+      "id": 44,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 54,
+      "imgsrc": "https://i.ibb.co/8MVpR9t/oxidized-german-silver-thread-necklaces-1000x1000.webp"
+    },
+    {
+      "title": "throat",
+      "price": 64,
+      "id": 45,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 12,
+      "imgsrc": "https://i.ibb.co/H4NFTRk/handmade-oxidized-necklace-set-500x500.jpg"
+    },
+    {
+      "title": "Crochet bags",
+      "price": 96,
+      "id": 46,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/vZK7SF4/20201223-111143-1-533x.webp"
+    },
+    {
+      "title": "bracelet",
+      "price": 15,
+      "id": 47,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 92,
+      "imgsrc": "https://i.ibb.co/Qb55bd2/13516424-10154426529219131-3140162579943269055-n.jpg"
+    },
+    {
+      "title": "throat",
+      "price": 64,
+      "id": 48,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 12,
+      "imgsrc": "https://i.ibb.co/jyCLqVS/21046a7161f06b412681f5807150d91c.jpg"
+    },
+    {
+      "title": "Crochet bags",
+      "price": 96,
+      "id": 49,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/TPJTxdr/706ee4e536b790e7ae7bf1e7b454ee64d68871bd.webp"
+    },
+    {
+      "title": "cup",
+      "price": 77,
+      "id": 50,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 54,
+      "imgsrc": "https://i.ibb.co/g9PMvZb/7-500x500.webp"
+    },
+    {
+      "title": "throat",
+      "price": 64,
+      "id": 51,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 12,
+      "imgsrc": "https://i.ibb.co/vxqjP7h/5.jpg"
+    },
+    {
+      "title": "Crochet bags",
+      "price": 96,
+      "id": 52,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/XxPHXvv/images.jpg"
+    },
+    {
+      "title": "cup",
+      "price": 77,
+      "id": 53,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 54,
+      "imgsrc": "https://i.ibb.co/Msd5BYb/FLORALGARLANDBLUE01.jpg"
+    },
+    {
+      "title": "throat",
+      "price": 64,
+      "id": 54,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 12,
+      "imgsrc": "https://i.ibb.co/HC230WY/DIY-Jewelry-Accessories-Handmade-Chain-Color-Preserving-Electroplated-Copper-Chain-Five-Pointed-Star.jpg"
+    },
+    {
+      "title": "Crochet bags",
+      "price": 96,
+      "id": 55,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/Qb55bd2/13516424-10154426529219131-3140162579943269055-n.jpg"
+    },
+    {
+      "title": "bracelet",
+      "price": 15,
+      "id": 56,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 92,
+      "imgsrc": "https://i.ibb.co/cYRq827/1.jpg"
+    },
+    {
+      "title": "throat",
+      "price": 64,
+      "id": 57,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 12,
+      "imgsrc": "https://i.ibb.co/2vV2z06/7ca8dac49896857c5afba627e52b91fb.jpg"
+    },
+    {
+      "title": "Crochet bags",
+      "price": 96,
+      "id": 58,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/M291xH3/1b96b0bb51fefc2d2448fade63bf0e61daab5fb2.webp"
+    },
+    {
+      "title": "cup",
+      "price": 77,
+      "id": 59,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 54,
+      "imgsrc": "https://i.ibb.co/t30QLRg/1-2.jpg"
+    },
+    {
+      "title": "throat",
+      "price": 64,
+      "id": 60,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 12,
+      "imgsrc": "https://i.ibb.co/jDrLmk5/1-1.jpg"
+    },
+    {
+      "title": "fahd",
+      "price": "100",
+      "id": 61,
+      "info": "aaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "rem-elem": "22",
+      "imgsrc": "https://i.ibb.co/jTVVGtX/5e2143198b1d8dfa14beda6c3e54f37a1552d5ea.webp"
+    }
+  ],
+  "Candles": [
+    {
+      "title": "glass cans ",
+      "price": 48,
+      "id": 1,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/qYKnQ2V/2d76c88e1b1cf350b3c5ebb2137be3ee.jpg"
+    },
+    {
+      "title": "big candles ",
+      "price": 52,
+      "id": 2,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/92yy88p/626d866f8adde70d725f7374dda67e8b.jpg"
+    },
+    {
+      "title": "pink",
+      "price": 63,
+      "id": 3,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 10,
+      "imgsrc": "https://i.ibb.co/4ZKbyMd/Beautiful-Small-Candles-Romantic-Glass-Candles-Jar-Wax-Unicorn-Candles-Velas-Aromaticas-Wedding-Deco.jpg"
+    },
+    {
+      "title": "flower ",
+      "price": 28,
+      "id": 4,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/JzmJx7j/CHUANGGE-DIY-Candle-Jar-Container-Tumbler-Holder-Candlestick-Frosted-Glass-Cup-Handmade-Scented-Cand.webp"
+    },
+    {
+      "title": "scented ",
+      "price": 15,
+      "id": 5,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/923hbqK/product-16.webp"
+    },
+    {
+      "title": "glass cans ",
+      "price": 37,
+      "id": 6,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/LNkmHHK/fullsizeoutput-20a-250x250-2x.webp"
+    },
+    {
+      "title": "big candles ",
+      "price": 29,
+      "id": 7,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/rv1Z1ft/il-570x-N-3116506827-b831.jpg"
+    },
+    {
+      "title": "pink",
+      "price": 46,
+      "id": 8,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 10,
+      "imgsrc": "https://i.ibb.co/qxj35YY/Geometry-Unique-Candle-Wave-S-Shape-Unscented-Decorative-Candles-Black-White-Pink-Hand-Poured-Soy-Ca.jpg"
+    },
+    {
+      "title": "flower ",
+      "price": 36,
+      "id": 9,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/n8Kdgg0/H8b5b1f085aa548c5b30fe4c2426e34b1-R.jpg"
+    },
+    {
+      "title": "scented ",
+      "price": 72,
+      "id": 10,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/cCcc2FH/Homemade-Aromatherapy-Candles-FI.jpg"
+    },
+    {
+      "title": "glass cans ",
+      "price": 48,
+      "id": 11,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/qYKnQ2V/2d76c88e1b1cf350b3c5ebb2137be3ee.jpg"
+    },
+    {
+      "title": "big candles ",
+      "price": 52,
+      "id": 12,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/1QwqbXM/images.jpg"
+    },
+    {
+      "title": "pink",
+      "price": 63,
+      "id": 13,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 10,
+      "imgsrc": "https://i.ibb.co/rv1Z1ft/il-570x-N-3116506827-b831.jpg"
+    },
+    {
+      "title": "flower ",
+      "price": 28,
+      "id": 14,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/rv1Z1ft/il-570x-N-3116506827-b831.jpg"
+    },
+    {
+      "title": "scented ",
+      "price": 15,
+      "id": 15,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/D5cjjGv/Hbb6d07df2a9d44db9f07df953f3a868b-K.jpg"
+    },
+    {
+      "title": "glass cans ",
+      "price": 37,
+      "id": 16,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/qxj35YY/Geometry-Unique-Candle-Wave-S-Shape-Unscented-Decorative-Candles-Black-White-Pink-Hand-Poured-Soy-Ca.jpg"
+    },
+    {
+      "title": "big candles ",
+      "price": 29,
+      "id": 17,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/cCcc2FH/Homemade-Aromatherapy-Candles-FI.jpg"
+    },
+    {
+      "title": "pink",
+      "price": 46,
+      "id": 18,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 10,
+      "imgsrc": "https://i.ibb.co/qYKnQ2V/2d76c88e1b1cf350b3c5ebb2137be3ee.jpg"
+    },
+    {
+      "title": "flower ",
+      "price": 36,
+      "id": 19,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/923hbqK/product-16.webp"
+    },
+    {
+      "title": "scented ",
+      "price": 72,
+      "id": 20,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/qYKnQ2V/2d76c88e1b1cf350b3c5ebb2137be3ee.jpg"
+    },
+    {
+      "title": "glass cans ",
+      "price": 48,
+      "id": 21,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/92yy88p/626d866f8adde70d725f7374dda67e8b.jpg"
+    },
+    {
+      "title": "big candles ",
+      "price": 52,
+      "id": 22,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/4ZKbyMd/Beautiful-Small-Candles-Romantic-Glass-Candles-Jar-Wax-Unicorn-Candles-Velas-Aromaticas-Wedding-Deco.jpg"
+    },
+    {
+      "title": "pink",
+      "price": 63,
+      "id": 23,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 10,
+      "imgsrc": "https://i.ibb.co/JzmJx7j/CHUANGGE-DIY-Candle-Jar-Container-Tumbler-Holder-Candlestick-Frosted-Glass-Cup-Handmade-Scented-Cand.webp"
+    },
+    {
+      "title": "flower ",
+      "price": 28,
+      "id": 24,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/LNkmHHK/fullsizeoutput-20a-250x250-2x.webp"
+    },
+    {
+      "title": "scented ",
+      "price": 15,
+      "id": 25,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/1QwqbXM/images.jpg"
+    },
+    {
+      "title": "glass cans ",
+      "price": 37,
+      "id": 26,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/923hbqK/product-16.webp"
+    },
+    {
+      "title": "big candles ",
+      "price": 29,
+      "id": 27,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/qxj35YY/Geometry-Unique-Candle-Wave-S-Shape-Unscented-Decorative-Candles-Black-White-Pink-Hand-Poured-Soy-Ca.jpg"
+    },
+    {
+      "title": "pink",
+      "price": 46,
+      "id": 28,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 10,
+      "imgsrc": "https://i.ibb.co/92yy88p/626d866f8adde70d725f7374dda67e8b.jpg"
+    },
+    {
+      "title": "flower ",
+      "price": 36,
+      "id": 29,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/n8Kdgg0/H8b5b1f085aa548c5b30fe4c2426e34b1-R.jpg"
+    },
+    {
+      "title": "scented ",
+      "price": 72,
+      "id": 30,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/cCcc2FH/Homemade-Aromatherapy-Candles-FI.jpg"
+    },
+    {
+      "title": "glass cans ",
+      "price": 48,
+      "id": 31,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/rv1Z1ft/il-570x-N-3116506827-b831.jpg"
+    },
+    {
+      "title": "big candles ",
+      "price": 52,
+      "id": 32,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/D5cjjGv/Hbb6d07df2a9d44db9f07df953f3a868b-K.jpg"
+    },
+    {
+      "title": "pink",
+      "price": 63,
+      "id": 33,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 10,
+      "imgsrc": "https://i.ibb.co/qxj35YY/Geometry-Unique-Candle-Wave-S-Shape-Unscented-Decorative-Candles-Black-White-Pink-Hand-Poured-Soy-Ca.jpg"
+    },
+    {
+      "title": "flower ",
+      "price": 28,
+      "id": 34,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/1QwqbXM/images.jpg"
+    },
+    {
+      "title": "scented ",
+      "price": 15,
+      "id": 35,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/qxj35YY/Geometry-Unique-Candle-Wave-S-Shape-Unscented-Decorative-Candles-Black-White-Pink-Hand-Poured-Soy-Ca.jpg"
+    },
+    {
+      "title": "glass cans ",
+      "price": 37,
+      "id": 36,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/qYKnQ2V/2d76c88e1b1cf350b3c5ebb2137be3ee.jpg"
+    },
+    {
+      "title": "big candles ",
+      "price": 29,
+      "id": 37,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/92yy88p/626d866f8adde70d725f7374dda67e8b.jpg"
+    },
+    {
+      "title": "pink",
+      "price": 46,
+      "id": 38,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 10,
+      "imgsrc": "https://i.ibb.co/4ZKbyMd/Beautiful-Small-Candles-Romantic-Glass-Candles-Jar-Wax-Unicorn-Candles-Velas-Aromaticas-Wedding-Deco.jpg"
+    },
+    {
+      "title": "flower ",
+      "price": 36,
+      "id": 39,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/LNkmHHK/fullsizeoutput-20a-250x250-2x.webp"
+    },
+    {
+      "title": "scented ",
+      "price": 72,
+      "id": 40,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/JzmJx7j/CHUANGGE-DIY-Candle-Jar-Container-Tumbler-Holder-Candlestick-Frosted-Glass-Cup-Handmade-Scented-Cand.webp"
+    },
+    {
+      "title": "glass cans ",
+      "price": 48,
+      "id": 41,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/923hbqK/product-16.webp"
+    }
+  ],
+  "Pottery": [
+    {
+      "title": "Casserole pottery",
+      "price": 26,
+      "id": 1,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/17p55jf/2-pack-koban-ceramic-raku-vase-raaquu-basics-handmade-pottery-home-decor-733341.webp"
+    },
+    {
+      "title": "poon pottery",
+      "price": 15,
+      "id": 2,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/Xpq0L1K/08e20799cdebf42a2ceb9c2c3f73caa1.jpg"
+    },
+    {
+      "title": "dish",
+      "price": 26,
+      "id": 3,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 11,
+      "imgsrc": "https://i.ibb.co/RHtGQSh/65cb6c34975f15d0066c87904afbe380.jpg"
+    },
+    {
+      "title": "Tank",
+      "price": 5,
+      "id": 4,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 6,
+      "imgsrc": "https://i.ibb.co/Tws7wdg/91tiy-Wdt9t-L-AC-SS450.jpg"
+    },
+    {
+      "title": "Casserole pottery",
+      "price": 91,
+      "id": 5,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/rdQXt9V/33473e393c142c230b13dc9bbfde97be.jpg"
+    },
+    {
+      "title": "poon pottery",
+      "price": 41,
+      "id": 6,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/ZYMMsX5/fayoum-pottery-1.jpg"
+    },
+    {
+      "title": "dish",
+      "price": 36,
+      "id": 7,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 11,
+      "imgsrc": "https://i.ibb.co/yFfvJ1x/FTV-Ceramics-IMG-7474.jpg"
+    },
+    {
+      "title": "Tank",
+      "price": 23,
+      "id": 8,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 6,
+      "imgsrc": "https://i.ibb.co/w7RS500/il-300x300-2347509747-btnz.webp"
+    },
+    {
+      "title": "cup pottery",
+      "price": 10,
+      "id": 9,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/4sxMZP5/images.jpg"
+    },
+    {
+      "title": "Casserole pottery",
+      "price": 26,
+      "id": 10,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/G7SHLdS/Kari-ceramics-handmade-pottery-mixed-sizes-ceramic-bowls.webp"
+    },
+    {
+      "title": "Casserole pottery",
+      "price": 26,
+      "id": 11,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/ykhvQM0/koi-ceramic-raku-vase-raaquu-basics-handmade-pottery-home-decor-946182.webp"
+    },
+    {
+      "title": "poon pottery",
+      "price": 15,
+      "id": 12,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/3vWfLLY/new-product-handmade-ceramic-travel-mug-16oz-836624-1024x683.webp"
+    },
+    {
+      "title": "dish",
+      "price": 26,
+      "id": 13,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 11,
+      "imgsrc": "https://i.ibb.co/ct9pcFG/Photo2022-05-03-121541-PM-grande.webp"
+    },
+    {
+      "title": "Tank",
+      "price": 5,
+      "id": 14,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 6,
+      "imgsrc": "https://i.ibb.co/Wcb4MF5/Whats-App-Image-2022-09-03-at-4-06-41-PM-1.jpg"
+    },
+    {
+      "title": "Casserole pottery",
+      "price": 91,
+      "id": 15,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/SRz4Fsc/Whats-App-Image-2022-09-03-at-4-06-41-PM.jpg"
+    },
+    {
+      "title": "poon pottery",
+      "price": 41,
+      "id": 16,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/2W5vVw5/image.jpg"
+    },
+    {
+      "title": "dish",
+      "price": 36,
+      "id": 17,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 11,
+      "imgsrc": "https://i.ibb.co/m6KCqT0/71-JQNw-PC5-XL-SL1500.jpg"
+    },
+    {
+      "title": "Tank",
+      "price": 23,
+      "id": 18,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 6,
+      "imgsrc": "https://i.ibb.co/KVq6gRd/71-Tvv-YTgq-EL-SX500.jpg"
+    },
+    {
+      "title": "cup pottery",
+      "price": 10,
+      "id": 19,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/HX5PQ7D/712e-a-Lxs6-L-SL1500.jpg"
+    },
+    {
+      "title": "Casserole pottery",
+      "price": 26,
+      "id": 20,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/NWCgLNS/ccc20fa6-1ad7-41a1-b754-84fb0e224e2c-192580-med.jpg"
+    },
+    {
+      "title": "Casserole pottery",
+      "price": 26,
+      "id": 21,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/TKL8zwc/4181b9023b5d96c8d41e7c6eaa7ddcc6.jpg"
+    },
+    {
+      "title": "poon pottery",
+      "price": 15,
+      "id": 22,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/k8qvNBq/il-340x270-3491070891-3qs8.webp"
+    },
+    {
+      "title": "dish",
+      "price": 26,
+      "id": 23,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 11,
+      "imgsrc": "https://i.ibb.co/kgyq43Z/Product-Banner-2-1.webp"
+    },
+    {
+      "title": "Tank",
+      "price": 5,
+      "id": 24,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 6,
+      "imgsrc": "https://i.ibb.co/YppVdg4/ry-web-5-large.webp"
+    },
+    {
+      "title": "Casserole pottery",
+      "price": 91,
+      "id": 25,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/W347K1X/Scipelei-Pottery-Mug-H11cm-x-W9cm-320g-18.webp"
+    },
+    {
+      "title": "poon pottery",
+      "price": 41,
+      "id": 26,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/17p55jf/2-pack-koban-ceramic-raku-vase-raaquu-basics-handmade-pottery-home-decor-733341.webp"
+    },
+    {
+      "title": "dish",
+      "price": 36,
+      "id": 27,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 11,
+      "imgsrc": "https://i.ibb.co/Xpq0L1K/08e20799cdebf42a2ceb9c2c3f73caa1.jpg"
+    },
+    {
+      "title": "Tank",
+      "price": 23,
+      "id": 28,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 6,
+      "imgsrc": "https://i.ibb.co/RHtGQSh/65cb6c34975f15d0066c87904afbe380.jpg"
+    },
+    {
+      "title": "cup pottery",
+      "price": 10,
+      "id": 29,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/Tws7wdg/91tiy-Wdt9t-L-AC-SS450.jpg"
+    },
+    {
+      "title": "Casserole pottery",
+      "price": 26,
+      "id": 30,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/rdQXt9V/33473e393c142c230b13dc9bbfde97be.jpg"
+    },
+    {
+      "title": "Casserole pottery",
+      "price": 26,
+      "id": 31,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/ZYMMsX5/fayoum-pottery-1.jpg"
+    },
+    {
+      "title": "poon pottery",
+      "price": 15,
+      "id": 32,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/yFfvJ1x/FTV-Ceramics-IMG-7474.jpg"
+    },
+    {
+      "title": "dish",
+      "price": 26,
+      "id": 33,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 11,
+      "imgsrc": "https://i.ibb.co/w7RS500/il-300x300-2347509747-btnz.webp"
+    },
+    {
+      "title": "Tank",
+      "price": 5,
+      "id": 34,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 6,
+      "imgsrc": "https://i.ibb.co/4sxMZP5/images.jpg"
+    },
+    {
+      "title": "Casserole pottery",
+      "price": 91,
+      "id": 35,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/G7SHLdS/Kari-ceramics-handmade-pottery-mixed-sizes-ceramic-bowls.webp"
+    },
+    {
+      "title": "poon pottery",
+      "price": 41,
+      "id": 36,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/ykhvQM0/koi-ceramic-raku-vase-raaquu-basics-handmade-pottery-home-decor-946182.webp"
+    },
+    {
+      "title": "dish",
+      "price": 36,
+      "id": 37,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 11,
+      "imgsrc": "https://i.ibb.co/3vWfLLY/new-product-handmade-ceramic-travel-mug-16oz-836624-1024x683.webp"
+    },
+    {
+      "title": "Tank",
+      "price": 23,
+      "id": 38,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 6,
+      "imgsrc": "https://i.ibb.co/Wcb4MF5/Whats-App-Image-2022-09-03-at-4-06-41-PM-1.jpg"
+    },
+    {
+      "title": "cup pottery",
+      "price": 10,
+      "id": 39,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/ct9pcFG/Photo2022-05-03-121541-PM-grande.webp"
+    },
+    {
+      "title": "Casserole pottery",
+      "price": 26,
+      "id": 40,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/SRz4Fsc/Whats-App-Image-2022-09-03-at-4-06-41-PM.jpg"
+    },
+    {
+      "title": "Casserole pottery",
+      "price": 26,
+      "id": 41,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/W347K1X/Scipelei-Pottery-Mug-H11cm-x-W9cm-320g-18.webp"
+    },
+    {
+      "title": "poon pottery",
+      "price": 15,
+      "id": 42,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/m6KCqT0/71-JQNw-PC5-XL-SL1500.jpg"
+    },
+    {
+      "title": "dish",
+      "price": 26,
+      "id": 43,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 11,
+      "imgsrc": "https://i.ibb.co/YppVdg4/ry-web-5-large.webp"
+    },
+    {
+      "title": "Tank",
+      "price": 5,
+      "id": 44,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 6,
+      "imgsrc": "https://i.ibb.co/2W5vVw5/image.jpg"
+    },
+    {
+      "title": "Casserole pottery",
+      "price": 91,
+      "id": 45,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/kgyq43Z/Product-Banner-2-1.webp"
+    },
+    {
+      "title": "poon pottery",
+      "price": 41,
+      "id": 46,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/KVq6gRd/71-Tvv-YTgq-EL-SX500.jpg"
+    },
+    {
+      "title": "dish",
+      "price": 36,
+      "id": 47,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 11,
+      "imgsrc": "https://i.ibb.co/k8qvNBq/il-340x270-3491070891-3qs8.webp"
+    },
+    {
+      "title": "Tank",
+      "price": 23,
+      "id": 48,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 6,
+      "imgsrc": "https://i.ibb.co/TKL8zwc/4181b9023b5d96c8d41e7c6eaa7ddcc6.jpg"
+    },
+    {
+      "title": "cup pottery",
+      "price": 10,
+      "id": 49,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/NWCgLNS/ccc20fa6-1ad7-41a1-b754-84fb0e224e2c-192580-med.jpg"
+    },
+    {
+      "title": "Casserole pottery",
+      "price": 26,
+      "id": 50,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/HX5PQ7D/712e-a-Lxs6-L-SL1500.jpg"
+    },
+    {
+      "title": "Casserole pottery",
+      "price": 26,
+      "id": 51,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/YppVdg4/ry-web-5-large.webp"
+    },
+    {
+      "title": "poon pottery",
+      "price": 15,
+      "id": 52,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/17p55jf/2-pack-koban-ceramic-raku-vase-raaquu-basics-handmade-pottery-home-decor-733341.webp"
+    },
+    {
+      "title": "dish",
+      "price": 26,
+      "id": 53,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 11,
+      "imgsrc": "https://i.ibb.co/KVq6gRd/71-Tvv-YTgq-EL-SX500.jpg"
+    },
+    {
+      "title": "Tank",
+      "price": 5,
+      "id": 54,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 6,
+      "imgsrc": "https://i.ibb.co/W347K1X/Scipelei-Pottery-Mug-H11cm-x-W9cm-320g-18.webp"
+    },
+    {
+      "title": "Casserole pottery",
+      "price": 91,
+      "id": 55,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/2W5vVw5/image.jpg"
+    },
+    {
+      "title": "poon pottery",
+      "price": 41,
+      "id": 56,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/Xpq0L1K/08e20799cdebf42a2ceb9c2c3f73caa1.jpg"
+    },
+    {
+      "title": "dish",
+      "price": 36,
+      "id": 57,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 11,
+      "imgsrc": "https://i.ibb.co/ct9pcFG/Photo2022-05-03-121541-PM-grande.webp"
+    },
+    {
+      "title": "Tank",
+      "price": 23,
+      "id": 58,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 6,
+      "imgsrc": "https://i.ibb.co/rdQXt9V/33473e393c142c230b13dc9bbfde97be.jpg"
+    },
+    {
+      "title": "cup pottery",
+      "price": 10,
+      "id": 59,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/SRz4Fsc/Whats-App-Image-2022-09-03-at-4-06-41-PM.jpg"
+    },
+    {
+      "title": "Casserole pottery",
+      "price": 26,
+      "id": 60,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/3vWfLLY/new-product-handmade-ceramic-travel-mug-16oz-836624-1024x683.webp"
+    },
+    {
+      "title": "Casserole pottery",
+      "price": 26,
+      "id": 61,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/NWCgLNS/ccc20fa6-1ad7-41a1-b754-84fb0e224e2c-192580-med.jpg"
+    },
+    {
+      "title": "poon pottery",
+      "price": 15,
+      "id": 62,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/rdQXt9V/33473e393c142c230b13dc9bbfde97be.jpg"
+    },
+    {
+      "title": "dish",
+      "price": 26,
+      "id": 63,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 11,
+      "imgsrc": "https://i.ibb.co/HX5PQ7D/712e-a-Lxs6-L-SL1500.jpg"
+    },
+    {
+      "title": "Tank",
+      "price": 5,
+      "id": 64,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 6,
+      "imgsrc": "https://i.ibb.co/W347K1X/Scipelei-Pottery-Mug-H11cm-x-W9cm-320g-18.webp"
+    },
+    {
+      "title": "Casserole pottery",
+      "price": 91,
+      "id": 65,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/2W5vVw5/image.jpg"
+    },
+    {
+      "title": "poon pottery",
+      "price": 41,
+      "id": 66,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/w7RS500/il-300x300-2347509747-btnz.webp"
+    },
+    {
+      "title": "dish",
+      "price": 36,
+      "id": 67,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 11,
+      "imgsrc": "https://i.ibb.co/rdQXt9V/33473e393c142c230b13dc9bbfde97be.jpg"
+    },
+    {
+      "title": "Tank",
+      "price": 23,
+      "id": 68,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 6,
+      "imgsrc": "https://i.ibb.co/Wcb4MF5/Whats-App-Image-2022-09-03-at-4-06-41-PM-1.jpg"
+    },
+    {
+      "title": "cup pottery",
+      "price": 10,
+      "id": 69,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/m6KCqT0/71-JQNw-PC5-XL-SL1500.jpg"
+    },
+    {
+      "title": "Casserole pottery",
+      "price": 26,
+      "id": 70,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/NWCgLNS/ccc20fa6-1ad7-41a1-b754-84fb0e224e2c-192580-med.jpg"
+    },
+    {
+      "title": "Casserole pottery",
+      "price": 26,
+      "id": 71,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/NWCgLNS/ccc20fa6-1ad7-41a1-b754-84fb0e224e2c-192580-med.jpg"
+    },
+    {
+      "title": "poon pottery",
+      "price": 15,
+      "id": 72,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/RHtGQSh/65cb6c34975f15d0066c87904afbe380.jpg"
+    },
+    {
+      "title": "dish",
+      "price": 26,
+      "id": 73,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 11,
+      "imgsrc": "https://i.ibb.co/rdQXt9V/33473e393c142c230b13dc9bbfde97be.jpg"
+    },
+    {
+      "title": "Tank",
+      "price": 5,
+      "id": 74,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 6,
+      "imgsrc": "https://i.ibb.co/m6KCqT0/71-JQNw-PC5-XL-SL1500.jpg"
+    },
+    {
+      "title": "Casserole pottery",
+      "price": 91,
+      "id": 75,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/Tws7wdg/91tiy-Wdt9t-L-AC-SS450.jpg"
+    },
+    {
+      "title": "poon pottery",
+      "price": 41,
+      "id": 76,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/2W5vVw5/image.jpg"
+    },
+    {
+      "title": "dish",
+      "price": 36,
+      "id": 77,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 11,
+      "imgsrc": "https://i.ibb.co/HX5PQ7D/712e-a-Lxs6-L-SL1500.jpg"
+    },
+    {
+      "title": "Tank",
+      "price": 23,
+      "id": 78,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 6,
+      "imgsrc": "https://i.ibb.co/KVq6gRd/71-Tvv-YTgq-EL-SX500.jpg"
+    },
+    {
+      "title": "cup pottery",
+      "price": 10,
+      "id": 79,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 9,
+      "imgsrc": "https://i.ibb.co/Xpq0L1K/08e20799cdebf42a2ceb9c2c3f73caa1.jpg"
+    },
+    {
+      "title": "Casserole pottery",
+      "price": 26,
+      "id": 80,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/3vWfLLY/new-product-handmade-ceramic-travel-mug-16oz-836624-1024x683.webp"
+    },
+    {
+      "title": "Casserole pottery",
+      "price": 26,
+      "id": 81,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/G7SHLdS/Kari-ceramics-handmade-pottery-mixed-sizes-ceramic-bowls.webp"
+    },
+    {
+      "title": "poon pottery",
+      "price": 15,
+      "id": 82,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/17p55jf/2-pack-koban-ceramic-raku-vase-raaquu-basics-handmade-pottery-home-decor-733341.webp"
+    },
+    {
+      "title": "dish",
+      "price": 26,
+      "id": 83,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 11,
+      "imgsrc": "https://i.ibb.co/NWCgLNS/ccc20fa6-1ad7-41a1-b754-84fb0e224e2c-192580-med.jpg"
+    },
+    {
+      "title": "Tank",
+      "price": 5,
+      "id": 84,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 6,
+      "imgsrc": "https://i.ibb.co/k8qvNBq/il-340x270-3491070891-3qs8.webp"
+    },
+    {
+      "title": "Casserole pottery",
+      "price": 91,
+      "id": 85,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 2,
+      "imgsrc": "https://i.ibb.co/SRz4Fsc/Whats-App-Image-2022-09-03-at-4-06-41-PM.jpg"
+    },
+    {
+      "title": "poon pottery",
+      "price": 41,
+      "id": 86,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 36,
+      "imgsrc": "https://i.ibb.co/TKL8zwc/4181b9023b5d96c8d41e7c6eaa7ddcc6.jpg"
+    },
+    {
+      "title": "dish",
+      "price": 36,
+      "id": 87,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 11,
+      "imgsrc": "https://i.ibb.co/17p55jf/2-pack-koban-ceramic-raku-vase-raaquu-basics-handmade-pottery-home-decor-733341.webp"
+    },
+    {
+      "title": "Tank",
+      "price": 23,
+      "id": 88,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 6,
+      "imgsrc": "https://i.ibb.co/17p55jf/2-pack-koban-ceramic-raku-vase-raaquu-basics-handmade-pottery-home-decor-733341.webp"
+    }
+  ],
+  "Clothes": [
+    {
+      "title": "muffler",
+      "price": 26,
+      "id": 1,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 18,
+      "imgsrc": "https://i.ibb.co/yhtJDfM/2fwycac.jpg"
+    },
+    {
+      "title": "stockings",
+      "price": 11,
+      "id": 2,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 19,
+      "imgsrc": "https://i.ibb.co/zrjx8zt/aseel-sohil-clothing-brand-1009-1.jpg"
+    },
+    {
+      "title": "kids clothe",
+      "price": 16,
+      "id": 3,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 22,
+      "imgsrc": "https://i.ibb.co/VN5pHc0/aseel-sohil-clothing-brand-1010-1.jpg"
+    },
+    {
+      "title": "gloves",
+      "price": 22,
+      "id": 4,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 32,
+      "imgsrc": "https://i.ibb.co/1dX4Sx0/1.jpg"
+    },
+    {
+      "title": "Wool",
+      "price": 29,
+      "id": 5,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 13,
+      "imgsrc": "https://i.ibb.co/TrbTQtD/istockphoto-503698785-1024x1024.jpg"
+    },
+    {
+      "title": "stockings",
+      "price": 11,
+      "id": 6,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 19,
+      "imgsrc": "https://i.ibb.co/SfjPjbM/640x530.jpg"
+    },
+    {
+      "title": "kids clothe",
+      "price": 16,
+      "id": 7,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 22,
+      "imgsrc": "https://i.ibb.co/wwr448w/bake-bread-e1516721857904.jpg"
+    },
+    {
+      "title": "gloves",
+      "price": 22,
+      "id": 8,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 32,
+      "imgsrc": "https://i.ibb.co/WkZ2mxr/non-woven-rolls-500x500.webp"
+    },
+    {
+      "title": "Wool",
+      "price": 29,
+      "id": 9,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 13,
+      "imgsrc": "https://i.ibb.co/tDFPcXQ/aseel-sohil-clothing-brand-1020-1.jpg"
+    },
+    {
+      "title": "stockings",
+      "price": 11,
+      "id": 10,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 19,
+      "imgsrc": "https://i.ibb.co/28sJryF/41g-BTN06-WFL-AC.jpg"
+    },
+    {
+      "title": "muffler",
+      "price": 26,
+      "id": 11,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 18,
+      "imgsrc": "https://i.ibb.co/6v4HsPm/b4c255bce56ac3637eb337ac709242c4.jpg"
+    },
+    {
+      "title": "stockings",
+      "price": 11,
+      "id": 12,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 19,
+      "imgsrc": "https://i.ibb.co/Jkrkv3s/BB7.jpg"
+    },
+    {
+      "title": "kids clothe",
+      "price": 16,
+      "id": 13,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 22,
+      "imgsrc": "https://i.ibb.co/QjRJBgv/Shopping-Basket.jpg"
+    },
+    {
+      "title": "gloves",
+      "price": 22,
+      "id": 14,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 32,
+      "imgsrc": "https://i.ibb.co/tBFrDc9/Oromo-Traditional-Dress-from-Ethiopian-Handmade-100-cotton.jpg"
+    },
+    {
+      "title": "Wool",
+      "price": 29,
+      "id": 15,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 13,
+      "imgsrc": "https://i.ibb.co/PtG3xC7/H969d0abb990847668fe493b1db49c13f-M.jpg"
+    },
+    {
+      "title": "stockings",
+      "price": 11,
+      "id": 16,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 19,
+      "imgsrc": "https://i.ibb.co/YZ42XVx/IMG-6191.webp"
+    },
+    {
+      "title": "kids clothe",
+      "price": 16,
+      "id": 17,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 22,
+      "imgsrc": "https://i.ibb.co/GPYHZzv/419a-Mkjfj-OL-AC-SY780.jpg"
+    },
+    {
+      "title": "gloves",
+      "price": 22,
+      "id": 18,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 32,
+      "imgsrc": "https://i.ibb.co/3cLQxY2/image-28964c65-78df-4518-b71e-dad043760425-300x.webp"
+    },
+    {
+      "title": "Wool",
+      "price": 29,
+      "id": 19,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 13,
+      "imgsrc": "https://i.ibb.co/021MCbv/s-l400.jpg"
+    },
+    {
+      "title": "stockings",
+      "price": 11,
+      "id": 20,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 19,
+      "imgsrc": "https://i.ibb.co/YL0jpwQ/newborn-crochet-hat-Large400-ID-894294.jpg"
+    },
+    {
+      "title": "muffler",
+      "price": 26,
+      "id": 21,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 18,
+      "imgsrc": "https://i.ibb.co/6ZV20dL/21635948918579.jpg"
+    },
+    {
+      "title": "stockings",
+      "price": 11,
+      "id": 22,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 19,
+      "imgsrc": "https://i.ibb.co/tBFrDc9/Oromo-Traditional-Dress-from-Ethiopian-Handmade-100-cotton.jpg"
+    },
+    {
+      "title": "kids clothe",
+      "price": 16,
+      "id": 23,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 22,
+      "imgsrc": "https://i.ibb.co/1dX4Sx0/1.jpg"
+    },
+    {
+      "title": "gloves",
+      "price": 22,
+      "id": 24,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 32,
+      "imgsrc": "https://i.ibb.co/yhtJDfM/2fwycac.jpg"
+    },
+    {
+      "title": "Wool",
+      "price": 29,
+      "id": 25,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 13,
+      "imgsrc": "https://i.ibb.co/wyv8Ybm/UTB8o-GL-HWr-FXKJk43-Ovq6ybnp-Xag.jpg"
+    },
+    {
+      "title": "stockings",
+      "price": 11,
+      "id": 26,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 19,
+      "imgsrc": "https://i.ibb.co/ySx9MmM/S8c8b1960439c4204b0b30205943fd0db-L.jpg"
+    },
+    {
+      "title": "kids clothe",
+      "price": 16,
+      "id": 27,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 22,
+      "imgsrc": "https://i.ibb.co/rsCv93Y/ULB87-DZALGr-FXKJk43-Ovq6ybnp-Xav.jpg"
+    },
+    {
+      "title": "gloves",
+      "price": 22,
+      "id": 28,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 32,
+      "imgsrc": "https://i.ibb.co/BtS3wKr/Sew-Yours-Sweetheart-Shoulder-Bag-1024x1024.webp"
+    },
+    {
+      "title": "Wool",
+      "price": 29,
+      "id": 29,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 13,
+      "imgsrc": "https://i.ibb.co/zrjx8zt/aseel-sohil-clothing-brand-1009-1.jpg"
+    },
+    {
+      "title": "stockings",
+      "price": 11,
+      "id": 30,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 19,
+      "imgsrc": "https://i.ibb.co/BtS3wKr/Sew-Yours-Sweetheart-Shoulder-Bag-1024x1024.webp"
+    },
+    {
+      "title": "muffler",
+      "price": 26,
+      "id": 31,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 18,
+      "imgsrc": "https://i.ibb.co/cgGwJfg/s-l400-1.jpg"
+    },
+    {
+      "title": "stockings",
+      "price": 11,
+      "id": 32,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 19,
+      "imgsrc": "https://i.ibb.co/rcxQhvF/product-500x500.jpg"
+    },
+    {
+      "title": "kids clothe",
+      "price": 16,
+      "id": 33,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 22,
+      "imgsrc": "https://i.ibb.co/fFZq3bd/s-l300.jpg"
+    },
+    {
+      "title": "gloves",
+      "price": 22,
+      "id": 34,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 32,
+      "imgsrc": "https://i.ibb.co/rsCv93Y/ULB87-DZALGr-FXKJk43-Ovq6ybnp-Xav.jpg"
+    },
+    {
+      "title": "Wool",
+      "price": 29,
+      "id": 35,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 13,
+      "imgsrc": "https://i.ibb.co/wcgXCZr/Pink-scaled.jpg"
+    },
+    {
+      "title": "stockings",
+      "price": 11,
+      "id": 36,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 19,
+      "imgsrc": "https://i.ibb.co/021MCbv/s-l400.jpg"
+    },
+    {
+      "title": "kids clothe",
+      "price": 16,
+      "id": 37,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 22,
+      "imgsrc": "https://i.ibb.co/WkZ2mxr/non-woven-rolls-500x500.webp"
+    },
+    {
+      "title": "gloves",
+      "price": 22,
+      "id": 38,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 32,
+      "imgsrc": "https://i.ibb.co/BtS3wKr/Sew-Yours-Sweetheart-Shoulder-Bag-1024x1024.webp"
+    },
+    {
+      "title": "Wool",
+      "price": 29,
+      "id": 39,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 13,
+      "imgsrc": "https://i.ibb.co/tBFrDc9/Oromo-Traditional-Dress-from-Ethiopian-Handmade-100-cotton.jpg"
+    },
+    {
+      "title": "stockings",
+      "price": 11,
+      "id": 40,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 19,
+      "imgsrc": "https://i.ibb.co/021MCbv/s-l400.jpg"
+    },
+    {
+      "title": "muffler",
+      "price": 26,
+      "id": 41,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 18,
+      "imgsrc": "https://i.ibb.co/ydS05fG/91t-Ckw-TBk-NL-UL1500.jpg"
+    },
+    {
+      "title": "stockings",
+      "price": 11,
+      "id": 42,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 19,
+      "imgsrc": "https://i.ibb.co/rsCv93Y/ULB87-DZALGr-FXKJk43-Ovq6ybnp-Xav.jpg"
+    },
+    {
+      "title": "kids clothe",
+      "price": 16,
+      "id": 43,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 22,
+      "imgsrc": "https://i.ibb.co/QjRJBgv/Shopping-Basket.jpg"
+    },
+    {
+      "title": "gloves",
+      "price": 22,
+      "id": 44,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 32,
+      "imgsrc": "https://i.ibb.co/Jkrkv3s/BB7.jpg"
+    },
+    {
+      "title": "Wool",
+      "price": 29,
+      "id": 45,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 13,
+      "imgsrc": "https://i.ibb.co/yhtJDfM/2fwycac.jpg"
+    },
+    {
+      "title": "stockings",
+      "price": 11,
+      "id": 46,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 19,
+      "imgsrc": "https://i.ibb.co/6v4HsPm/b4c255bce56ac3637eb337ac709242c4.jpg"
+    },
+    {
+      "title": "kids clothe",
+      "price": 16,
+      "id": 47,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 22,
+      "imgsrc": "https://i.ibb.co/zrjx8zt/aseel-sohil-clothing-brand-1009-1.jpg"
+    },
+    {
+      "title": "gloves",
+      "price": 22,
+      "id": 48,
+      "info": "ALL ITEMS ARE HANDMADE, SO THERE MAY BE SLIGHT DIFFERENCES IN SIZE AND FINISH FOR EACH ITEM. PLEASE NOTE THAT WE CANNOT ACCEPT RETURNS OR EXCHANGES FOR THE ABOVE REASONS",
+      "rem-elem": 32,
+      "imgsrc": "https://i.ibb.co/ydS05fG/91t-Ckw-TBk-NL-UL1500.jpg"
+    }
+  ],
+  "Users": []
+}

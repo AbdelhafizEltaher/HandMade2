@@ -1,0 +1,567 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+
+nav {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 4%;
+    padding-right: 2%;
+    padding-top: 10px;
+    height: 90px;
+    position: fixed;
+    background-color: rgb(236, 126, 58);
+
+}
+
+.logo {
+
+    color: rgb(95, 95, 95);
+    font-size: 30px;
+    transition: 1s;
+    letter-spacing: 1px;
+}
+
+.logo:hover {
+    cursor: pointer;
+    transform: scale(1.4);
+}
+.logo  a{
+text-decoration: none;
+color: rgb(95, 95, 95);
+}
+.logo span {
+    color: #fff;
+}
+
+.logo i {
+    color: #fff;
+    margin-right: 5px;
+}
+
+nav ul li {
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 22px;
+    font-weight: bold;
+}
+nav ul li{
+    transition: 1s;
+
+}
+nav ul li:hover{
+    color: rgb(95, 95, 95);
+    transform: scale(1.3);
+
+}
+nav ul li a:hover{
+    color: rgb(95, 95, 95);
+
+}
+nav button {
+    border: none;
+    background: #fff;
+    padding: 12px 30px;
+    border-radius: 30px;
+    font-size: 20px;
+    color: rgb(236, 126, 58);
+    font-weight: bold;
+    transition: 0.4s;
+    margin-right: 30px;
+}
+
+nav button:hover {
+    cursor: pointer;
+    background-color: rgb(95, 95, 95);
+    color: #fff;
+    transform: scale(1.3);
+}
+nav button a{
+    text-decoration: none;
+    color: rgb(236, 126, 58);
+}
+
+#user {
+    margin-right: 30px;
+    color: rgb(95, 95, 95);
+
+}
+
+#user i {
+    font-size: 24px;
+    margin-left: 10px;
+
+}
+
+#user span {
+    font-size: 24px;
+    color:#fff;
+    font-weight: bold;
+    margin-left: 5px;
+    text-transform: capitalize;
+}
+
+#user :hover{
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+/* ------------------------------------------------------------------------------------------ */
+
+.container-card {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    padding-top: 70px;
+    padding-bottom: 80px;
+    flex-wrap:wrap;
+
+}
+
+.card {
+    width: 270px;
+    display: inline-block;
+    margin-top: 60px;
+    box-shadow: 20px 30px 20px 0 rgba(0, 0, 0, 0.02);
+    border-radius: 20px;
+    transition: 0.2s ease;
+    height: 480px;
+}
+
+.card:hover {
+    cursor: pointer;
+    box-shadow: 20px 30px 20px 0 rgba(0, 0, 0, 0.06);
+
+}
+
+.card img {
+    width: 100%;
+    height: 60%;
+    border-radius: 20px 20px 0px 0px;
+
+}
+
+.card h6 {
+    padding-left: 10px;
+    font-size: 18px;
+    text-transform: capitalize;
+
+}
+
+.price {
+    font-size: 22px;
+    text-align: right;
+    padding-right: 10px;
+}
+.price span{
+    color: green;
+}
+
+.info {
+    color: rgb(95, 95, 95);
+    font-size: 12px;
+    font-weight: bold; 
+    text-align: left;
+    padding-left: 10px;
+    text-transform: lowercase;
+    color: aqua;
+    background: linear-gradient(45deg,red,orange,gray,brown,violet,red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.star {
+    color: rgb(250, 182, 9);
+    padding-left: 10px;
+}
+
+.addTocard {
+    border: none;
+    width: 100%;
+    font-size: 20px;
+    padding: 10px;
+    color: rgb(95, 95, 95);
+    background-color: rgb(236, 126, 58);
+    cursor: pointer;
+    text-align: center;
+    margin-top: 10px;
+    transition: 0.7s;
+
+}
+
+.addTocard:hover {
+    color: rgb(236, 126, 58);
+    background-color: rgb(95, 95, 95);
+
+}
+.delet {
+    border: none;
+    width: 30%;
+    font-size: 20px;
+    padding: 10px;
+    color: rgb(95, 95, 95);
+    background-color: rgb(236, 126, 58);
+    cursor: pointer;
+    text-align: center;
+    margin-top: 10px;
+    transition: 0.7s;
+
+}
+
+.delet:hover {
+    color: rgb(236, 126, 58);
+    background-color: rgb(95, 95, 95);
+
+}
+.buy {
+    border: none;
+    width: 70%;
+    font-size: 20px;
+    padding: 10px;
+    color: rgb(95, 95, 95);
+    background-color: rgb(236, 126, 58);
+    cursor: pointer;
+    text-align: center;
+    margin-top: 10px;
+    transition: 0.7s;
+
+}
+
+.buy:hover {
+    color: rgb(236, 126, 58);
+    background-color: rgb(95, 95, 95);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ------------------------------------------  Footer --------------------------------------------- */
+
+
+
+
+
+footer {
+    display: flex;
+    padding: 50px 15%;
+    width: 100%;
+    background-color: rgb(95, 95, 95);
+    color: rgb(236, 126, 58);
+}
+
+footer div {
+    text-align: center;
+}
+
+.col_1 a {
+    text-decoration: none;
+    display: block;
+    color: rgb(236, 126, 58);
+    font-size: 22px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+.col_1 a:hover {
+
+    color: #fff;
+}
+
+.col_1 h1 {
+    color: #fff;
+    font-size: 38px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+}
+
+.col_1 h1:hover {
+    color: rgb(236, 126, 58);
+    cursor: pointer;
+
+}
+
+.col_2 {
+    flex-grow: 2;
+}
+
+.col_2 button {
+    border: none;
+    width: 300px;
+    height: 70px;
+    background: rgb(236, 126, 58);
+    padding: 12px 30px;
+    border-radius: 30px;
+    font-size: 26px;
+    color: #fff;
+    font-weight: bold;
+    transition: 0.4s;
+    margin-bottom: 40px;
+
+}
+
+.col_2 button:hover {
+    cursor: pointer;
+    background-color: #fff;
+    color: rgb(236, 126, 58);
+    transform: scale(1.3);
+}
+
+.col_2 i {
+    color: rgb(236, 126, 58);
+    font-size: 30px;
+    font-weight: bold;
+    padding-left: 15px;
+    transition: 0.5s;
+
+}
+
+.col_2 i:hover {
+    color: #fff;
+    transform: scale(1.4);
+    cursor: pointer;
+
+}
+
+.col_2 h3 {
+    margin-top: 40px;
+    color: #fff;
+    font-size: 26px;
+    font-weight: bold;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+
+.col_3 h1 {
+    color: #fff;
+    font-size: 38px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+}
+
+.col_3 h1:hover {
+    color: rgb(236, 126, 58);
+    cursor: pointer;
+
+}
+
+.col_3 p {
+    font-size: 18px;
+    word-spacing: 1px;
+    padding-top: 10px;
+}
+
+
+
+
+
+
+
+/* ----------------------------------------------------------------------------------------------------------------------------------------- */
+.emptycart{
+
+    margin: 200px;
+    margin-left: 420px;
+    font-size: 70px;
+    font-weight: bold;
+    color: aqua;
+    background: linear-gradient(45deg,red,orange,gray,brown,violet,red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+
+
+
+
+
+/* --------------------------------------------------------------------------------------------------------- */
+#location{
+    float: right;
+    margin-bottom: 50px;
+    width: 40%;
+}
+#welcome{
+    text-align: center;
+    width: 100%;
+    padding-top: 150px;
+    margin-bottom: 50px;
+}
+#welcome h1{
+    font-size: 70px;
+    font-weight: bold;
+    color: aqua;
+    background: linear-gradient(45deg,red,orange,gray,brown,violet,red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+#infromation{
+width: 58%;
+float: left;
+margin-top: 50px;
+}
+#infromation h3{
+    font-size: 20px;
+    font-weight: bold;
+    color: aqua;
+    margin-left: 50px;
+    background: linear-gradient(45deg,red,orange,gray,brown,violet,red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+#infromation input{
+    display: block;
+    width: 50%;
+    margin: 30px;
+    margin-left: 50px;
+    height: 40px;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    font-size: 16px;
+    text-transform: capitalize;
+    transition: 2s;
+    padding-left:20px;
+}
+#infromation input:focus{
+    display: block;
+    width: 60%;
+    margin: 30px;
+    margin-left: 50px;
+    height: 40px;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    font-size: 16px;
+    padding: 20px;
+    text-transform: capitalize;
+    transition: 2s;
+}
+#infromation button{
+    width: 20%;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(236, 126, 58);
+    margin: 20px;
+    margin-left: 120px;
+    color: rgb(95, 95, 95);
+    font-size: 20px;
+    transition: 1s;
+}
+#infromation button:hover{
+ cursor: pointer;
+ transform: scale(1.2);
+ background-color: rgb(95, 95, 95);
+
+color: rgb(236, 126, 58);}
+
+.insertProduct{
+    clear: both;
+    width: 100%;
+height: 600px;
+
+}
+.insertProduct input,select{
+    display: block;
+    width: 25%;
+    margin: 30px;
+    margin-left: 50px;
+    height: 40px;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    font-size: 16px;
+    text-transform: capitalize;
+    transition: 2s;
+    padding-left:20px;
+}
+
+.insertProduct .card{
+float: right;
+margin: 0px;
+margin-right: 500px;
+margin-bottom: 50px;
+}
+#newproducr{
+    border: none;
+    width: 15%;
+    margin: 30px;
+    margin-left: 100px;
+    height: 50px;
+    background: rgb(236, 126, 58);
+    padding: 12px 30px;
+    border-radius: 30px;
+    font-size: 18px;
+    color: #fff;
+    font-weight: bold;
+    transition: 0.4s;
+}
+#newproducr:hover{
+    cursor: pointer;
+    color: rgb(236, 126, 58);
+    background-color: rgb(95, 95, 95);
+    transform: scale(1.2);
+}
+#welcome22{
+    clear: both;
+    text-align: center;
+    width: 100%;
+    padding-top: 50px;
+    margin-bottom: 80px;
+}
+#welcome22 h1{
+    font-size: 70px;
+    font-weight: bold;
+    color: aqua;
+    background: linear-gradient(45deg,red,orange,gray,brown,violet,red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

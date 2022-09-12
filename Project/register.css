@@ -1,0 +1,158 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+img{
+    width: 50%;
+    height: 658.4px;
+}
+form {
+    position: absolute;
+    top: 50%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    width: 350px;
+    height: 500px;
+    background: rgba(195, 189, 189, 0.5);
+    border-radius: 10px;
+    box-shadow: 5px 10px 15px 5px #888888;
+}
+
+input {
+    background: none;
+}
+
+
+input[type="text"],
+[type="password"] {
+    background: none;
+    position: absolute;
+    outline: none;
+    margin-top: 5px;
+    border: none;
+    width: 250px;
+    height: 35px;
+    border-bottom: 2px solid rgb(236, 126, 58);
+    padding: 5px;
+    color: rgb(95, 95, 95);
+    cursor: pointer;
+}
+
+label {
+    background: none;
+}
+
+h2 {
+    background: none;
+    color: rgb(236, 126, 58);
+    /* text-align: center; */
+    position: absolute;
+    top: 30PX;
+    left: 130px;
+} 
+#userName {
+    position: absolute;
+    top: 80px;
+    left: 50px;
+    color: rgb(95, 95, 95);
+    cursor: pointer;
+    outline: none;
+
+}
+
+#fullName {
+    position: absolute;
+    top: 130px;
+    left: 50px;
+    color: rgb(95, 95, 95);
+    cursor: pointer;
+    outline: none;
+}
+
+#pass {
+    top: 180px;
+    left: 50px;
+}
+#confirm{
+    position: absolute;
+    top: 230px;
+    left: 50px;
+    color: rgb(95, 95, 95);
+    cursor: pointer;
+}
+
+#mail {
+    position: absolute;
+    top: 330px;
+    left: 50px;
+    color: rgb(95, 95, 95);
+    cursor: pointer;
+}
+#phone{
+    position: absolute;
+    top: 280px;
+    left: 50px;
+    color: rgb(95, 95, 95);
+    cursor: pointer;
+}
+
+#butt {
+    position: absolute;
+    top: 400px;
+    bottom: 50;
+    width: 130px;
+    height: 35px;
+    outline: none;
+    border: none;
+    background-color: rgb(236, 126, 58);
+    /* border-radius: 10px; */
+    color: rgb(95, 95, 95);
+    font-size: 15px;
+    left: 110px;
+    cursor: pointer;
+}
+
+::placeholder {
+    color: rgb(95, 95, 95);
+}
+
+#butt:hover {
+    /* background: transparent; */
+    color: rgb(236, 126, 58);
+    background-color: rgb(95, 95, 95);
+}
+#lab1:hover {
+    color: rgb(236, 126, 58);
+
+}
+#lab2:hover {
+    color: rgb(236, 126, 58);
+
+}
+button{
+    position: relative;
+    top: 450px;
+    left: 50px;
+    width: 130px;
+    height: 35px;
+    outline: none;
+    border: none;
+    background: rgba(195, 189, 189, 0.5);
+     border-radius: 10px; 
+    color: rgb(95, 95, 95);
+    font-size: 15px;
+    left: 110px;
+    cursor: pointer; 
+
+}
+button a{
+    text-decoration: none;
+    color: rgb(95, 95, 95);
+    font-weight: bold;
+}
+button:hover{
+    background-color: rgb(236, 126, 58);
+    color: rgb(22, 21, 21);
+}
